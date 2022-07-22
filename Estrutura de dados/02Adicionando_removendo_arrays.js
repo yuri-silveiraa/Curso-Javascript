@@ -3,7 +3,7 @@ let frutas = new Array('Abacaxi')
 frutas.push('Banana') // adiciona um elemento na array 
 frutas.push('Morango')
 frutas.push('Maçã')
-frutas.unshift('tangerina');
+frutas.unshift('tangerina'); // adiciona um elemento no inicio da array
 
 frutas.pop() // remove o ultimo elemento da array 
 frutas.shift() // remove o primeiro elemento da array
