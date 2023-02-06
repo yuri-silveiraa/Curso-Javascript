@@ -7,7 +7,7 @@ const redesSociais = [
   'LinkedIn',
   'Pinterest'
 ]
-/*
+
 const tiktok = redesSociais.indexOf('Tiktok') // me diz em qual posição esta esse elemento na array 
 
 console.log(tiktok)
@@ -22,7 +22,7 @@ for (const i in redesSociais){
     console.log(`${i}: ${redesSociais[i]}`) // me mostra a posição de cada um na array 
 }
 
-*/
+
 /*
 for (const valor of redesSociais) {
     console.log(valor)   // me mostra o valor de cada indice 
